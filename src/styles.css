@@ -1,0 +1,39 @@
+body {
+  background-color: rgba(247, 247, 247, 0.986);
+}
+button {
+  border-radius: 0px;
+  background: rgba(102, 34, 34, 0);
+  border: none;
+  margin-left: 5%;
+  position: relative;
+  left: -5%;
+  transform: translate(10%, 0);
+}
+.swtch {
+  text-decoration: none;
+  font-family: "Verdana", serif;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+}
+.headfoot {
+  border-radius: 15px;
+  background: rgb(36, 126, 153);
+}
+.topbutton {
+  text-decoration: none;
+  background-color: rgba(104, 59, 59, 0);
+  font-size: 60px;
+  color: rgb(255, 255, 255);
+  position: relative;
+  left: 43%;
+  transform: translate(-50%, 0%);
+}
+h5 {
+  font-family: "Verdana", serif;
+  font-size: 25px;
+  color: rgb(231, 231, 231);
+  position: relative;
+  left: 1%;
+  bottom: -100px;
+}

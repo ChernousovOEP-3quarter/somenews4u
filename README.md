@@ -1,2 +1,2 @@
-# somenewsfor4u
+# somenews4u
 Created with CodeSandbox

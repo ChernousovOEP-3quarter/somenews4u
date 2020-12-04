@@ -1,0 +1,18 @@
+h1 {
+  font-family: "Verdana", serif;
+  font-size: 56px;
+  text-align: center;
+}
+h2 {
+  font-family: "Verdana", serif;
+  font-size: 56px;
+  text-align: center;
+}
+p {
+  font-family: "Verdana", serif;
+  font-size: 30px;
+  text-align: left;
+  margin-left: 3%;
+  margin-right: 12%;
+  color: rgb(43, 36, 23);
+}
